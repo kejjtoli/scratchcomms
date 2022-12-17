@@ -1,6 +1,6 @@
 import scratchcomms
 
-exampleText = "Hello world! This text just got encoded and decode^d using scratchcomms."
+exampleText = "Witaj Świecie! Ten tekst został zakodowany i odkodowany za pomocą scratchcomms!"
 
 exampleText = scratchcomms.encode(exampleText)
 
